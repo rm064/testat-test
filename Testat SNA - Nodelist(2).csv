@@ -1,0 +1,24 @@
+id,name,type,sector
+HPR,Heinrich Prinz Reuß,1,Adel
+FH,Frank Heppner,1,Wirtschaft
+MF,Michael Fritsch ,1,Wirtschaft
+ME,Maximilian Eder,1,Militär
+CW,Christian Wendler,1,Politik
+RHL,Ruth Hildegard L.,1,Politik
+RVP,Rüdiger von Pescatore,1,Militär
+PG,Paul G. ,1,Wirtschaft 
+MVH,Marco van H.,1,Militär
+MR,Melanie R.,1,Wirtschaft
+PW,Peter Wörner,1,Militär
+RR,René R.,1,Religion 
+BMW,Birgit Malsack-Winkemann,1,Politik
+TT,Thomas T. ,1,Wirtschaft
+AM,Andreas M.,1,Militär
+FR,Frank Richter,1,Politik
+AfD,Alternative für Deutschland,2,NA
+Basis,Die Basis,2,NA
+KSK,Kommando Spezialkräfte,2,NA
+Bundeswehr ,Bundeswehr ,2,NA
+CDU,Christlich Demokratische Union Deutschland,2,NA
+Coronagegner,Coronagegner,2,NA
+NA,NA,NA,NA
